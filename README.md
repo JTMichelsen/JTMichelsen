@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm learning programming on my own after taking a couple C++ classes several lifetimes ago and then moving out of computer work. Currently working as a solo handyman/contractor, but hoping to move to a less (physically) painful field soon, so if you have any tips on getting hired feel free to pass them along!
 <!--
 **JTMichelsen/JTMichelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
